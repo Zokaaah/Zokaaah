@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel😅, atuo como Analista de testes | QA e Desenvolvedor web<br/>
+### Olá! Eu sou o Gabriel, atuo como Analista de testes | QA e Desenvolvedor web<br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-silva1997/)
 [![Vercel](https://img.shields.io/badge/Hosted%20on-Vercel-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://gabriel-oliveira.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512997068967?text=Ol%C3%A1%21+Tudo+bem+%3F)
