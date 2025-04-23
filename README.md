@@ -19,7 +19,7 @@
 </div><br/>
 
 ## 🚀 Sobre mim
-###### Sou Analista de Testes, graduado em Análise e Desenvolvimento de Sistemas pela Fatec Guaratinguetá. Tenho experiência em garantir a qualidade de 
+Sou Analista de Testes, graduado em Análise e Desenvolvimento de Sistemas pela Fatec Guaratinguetá. Tenho experiência em garantir a qualidade de 
 software por meio de testes manuais e automatizados, aplicando metodologias ágeis e boas práticas de QA.
 <br>
 ## Contato
